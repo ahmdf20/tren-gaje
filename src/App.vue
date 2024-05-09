@@ -30,7 +30,7 @@ function toggleAlert()
 {
   Swal.fire({
     title: "OMG!",
-    imageUrl: "/public/picture/blush.png",
+    imageUrl: "https://i.imgur.com/MH7yIJA.png",
     imageWidth: 400,
     imageAlt: "Custom image"
   });
